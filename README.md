@@ -28,7 +28,6 @@ This MVP uses seeded mock data. The “AI-assisted” daily summary is a determi
 ## Included documentation
 - `docs/WorkRadar_PRD.pdf` — two-page Product Requirements Document
 - `docs/WorkRadar_AI_Workflow.pdf` — tools, significant prompts, AI-assisted work, review, and trade-offs
-- `docs/WorkRadar_Demo_Script.md` — timed narration and recording checklist
 
 ## AI use and review
 AI assistance was used to draft product requirements, interface structure, mock content, styling, interaction logic, and documentation. The requirements were mapped to the assignment checklist; the mock-data boundary, non-live summary behavior, and lack of integrations are explicitly disclosed. JavaScript syntax was checked with Node.js. This is not a substitute for full browser QA, accessibility testing, or user testing; the final owner should run the prototype and verify actions before submission.
